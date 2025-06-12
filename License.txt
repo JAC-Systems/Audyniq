@@ -1,0 +1,23 @@
+Custom License – Public Source, Attribution Required, No Derivatives
+
+Copyright (c) 2025 JAC-Systems (https://jac-sys.net)
+
+Permission is granted to view, download, and use this software and its source code for personal or internal purposes.
+
+You MAY:
+- Use the software as-is
+- Read or learn from the source code
+- Modify it for personal/private use
+- Share the original version of the software (with credit to JAC-Systems)
+
+You may NOT:
+- Publish or share modified versions of this software or its source code
+- Remove or alter the original author’s name or attribution
+- Redistribute any part of this project under a different name or license
+- Claim this project as your own
+
+This license allows users to benefit from this software work preserving your role as the original author and preventing unofficial remixes or forks from being shared publicly.
+
+By using this software or viewing its code, you agree to these terms.
+
+For inquiries or licensing exceptions, please contact us at https://jac-sys.net
