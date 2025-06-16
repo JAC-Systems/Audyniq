@@ -13,9 +13,6 @@ Audyniq is a lightweight and modern system tray tool that lets you **instantly c
 
 
 ## 🔧 Installation
-
-> COMING SOON
-
 ### Option 1: Download the executable
 
 > *(Add a link to your latest `.exe` release once you publish it)*
