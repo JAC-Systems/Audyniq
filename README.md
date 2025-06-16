@@ -8,48 +8,9 @@ Audyniq is a lightweight and modern system tray tool that lets you **instantly c
 ![License](https://img.shields.io/github/license/Joost-JAC-Systems/audyniq)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 
----
-
-## 🚀 Features
-
-> Displays Current features of the lastest Release..
-
-- 🔊 Speaker Volume changing
-- 🎙️ Microphone volume changing
-- 🔇 Speaker Muting & Unmuting
-- 🎙️ Microphone Muting & Unmuting
-- ⚙️ Save user preferences in a config file
-- 👁️‍🗨️ Default interactions with User
-- 💾 Remembers your settings across sessions
-
-## 🧠 Roadmap
-
-> Displays features we're working on..
-
-- ▶️ Auto-start on boot (Toggle)
-- 🔊 Add volume/mic controls
-- 🧊 Tray icon integration
-- ⌨️ Customizable hotkeys via GUI
-- ⚙️ Save user preferences in config file
-- 🎚️ Change **output volume** (Hotkey)
-- ▶️ Auto-start on boot (Automatic)
-- 🎚️ Change **output volume** (Hotkey)
-- 🎙️ Instantly toggle or adjust **microphone volume**
-- ⚡ Minimalist tray app with a smooth interface
-- 🛠️ Fully open source and customizable
-- 🔕 Notification toggle (Hotkey)
-- 🎛️ Replacement tool for Windows Volumemixer
-
 
 ---
 
-## 📸 Preview
-
-> COMING SOON
-
-> *(Add a GIF or image here if you'd like – e.g. a screen recording of it in use)*
-
----
 
 ## 🔧 Installation
 
@@ -64,6 +25,80 @@ Audyniq is a lightweight and modern system tray tool that lets you **instantly c
 3. The app will appear in your system tray. Right-click it to configure settings.
 
 ---
+
+
+## 📊 Audyniq Edition Comparison
+
+### 📝 Naming scheme
+| Edition Name             | Description              | Personal Use | Commercial Use |
+|--------------------------|--------------------------|:------------:|:--------------:|
+| **🔹 Audyniq Go**        | Ultra-light, no config   | ✅          | ❌            |
+| **🔷 Audyniq Pulse**     | Default balanced version | ✅          | ⚠️            |
+| **🎮 Audyniq Edge**      | Gamer-optimized features | ✅          | ❌            |
+| **🎛️ Audyniq Fusion**    | Full studio-grade tools  | ✅          | ❌            |
+| **🧩 Audyniq Orbit**     | Essentials for SMBs      | ❌          | ✅            |
+| **🏢 Audyniq Nexus**     | Enterprise-ready         | ❌          | ✅            |
+
+> ⚠️ = Not Adviced
+> ✅ = recommended
+> ❌ = Not recommended
+
+
+### 🚀 Eventual Feature Breakdown
+
+> COMING SOON!
+
+| Feature / Edition         | Go  | Pulse  | Edge  | Fusion || Orbit | Nexus || Arkos |
+|---------------------------|:------:|:------:|:------:|:------:|:-:|:------:|:------:|:-:|:------:|
+| 🔊 Speaker Volume Control | ✅  | ✅    | ✅   | ✅     || ✅   | ✅    || ❌   |
+| 🎙️ Mic Volume Control     | ✅  | ✅    | ✅   | ✅     || ✅   | ✅    || ❌   |
+| 🎛️ Advanced Routing       | ❌  | ❌    | ⚠️   | ✅     || ❌   | ✅    || ❌   |
+| 🔄 Audio Profiles         | ❌  | ❌    | ⚠️   | ✅     || ❌   | ✅    || ❌   |
+| 🖥️ Console Support        | ✅  | ⚠️    | ⚠️   | ✅     || ✅   | ✅    || ✅   |
+| 💾 Remember sessions      | ✅  | ✅    | ✅   | ✅     || ✅   | ✅    || ✅   |
+| 🌩️ Auto-start on boot     | ⚠️  | ✅    | ✅   | ✅     || ✅   | ✅    || ✅   |
+| 🔕 Notification Control   | ❌  | ❌    | ⚠️   | ✅     || ⚠️   | ✅    || ❌   |
+| 🧊 Tray icon integration  | ❌  | ✅    | ✅   | ✅     || ✅   | ✅    || ⚠️   |
+| ⚡ Tray app interface     | ❌  | ⚠️    | ✅   | ✅     || ✅   | ✅    || ❌   |
+| 🔧 Configurable Settings  | ❌  | ✅    | ✅   | ✅     || ⚠️   | ✅    || ❌   |
+| 👁️‍🗨️ User interactions      | ❌  | ✅    | ✅   | ✅     || ⚠️   | ✅    || ❌   |
+| ⌨️ Hotkey Customization   | ❌  | ✅    | ✅   | ✅     || ❌   | ✅    || ❌   |
+| 🎮 Gaming Optimizations   | ❌  | ❌    | ✅   | ⚠️     || ❌   | ⚠️    || ❌   |
+| 📊 Usage Statistics       | ❌  | ✅    | ✅   | ✅     || ✅   | ✅    || ⚠️   |
+| 🎛️ Advanced Routing       | ❌  | ❌    | ⚠️   | ✅     || ❌   | ✅    || ❌   |
+| 🧩 Multi-device Support   | ❌  | ⚠️    | ✅   | ✅     || ⚠️   | ✅    || ❌   |
+| 📶 Low-Bandwidth Mode     | ❌  | ❌    | ⚠️   | ✅     || ✅   | ✅    || ✅   |
+| 🏢 Commercial License     | ❌  | ❌    | ❌   | ❌     || ✅   | ✅    || ✅   |
+| 🧪 SLA & Remote Control   | ❌  | ❌    | ❌   | ❌     || ✅   | ✅    || ✅   |
+| 🕑 Usage Logging          | ❌  | ❌    | ❌   | ⚠️     || ✅   | ✅    || ✅   |
+| 🌟 Enterprise exclusive   | ❌  | ❌    | ❌   | ⚠️     || ✅   | ✅    || ✅   | 
+|||||||||||
+||Go to Page|Go to Page|Go to Page|Go to Page||Go to Page|Go to Page||Go to Page|
+
+> ⚠️ = Partial or Limited support
+> ✅ = Supported
+> ❌ = Not Supported
+
+
+### 🧠 Roadmap
+
+Here we show the list with features we will be adding in the soon future!
+
+**Currently:**
+- 
+
+---
+
+
+## 📸 Preview
+
+> COMING SOON
+
+> *(Add a GIF or image here if you'd like – e.g. a screen recording of it in use)*
+
+
+---
+
 
 ##  🎛️ Usage
 
@@ -82,14 +117,23 @@ Audyniq runs silently in the tray. Here are the default hotkeys:
 
 You can customize these in the settings menu.
 
+
 ---
+
+
+## ☕ Support
+
+If you like this tool and want to support its development, feel free to star the repo or share it with friends 😊
+
 
 ## ❤️ Credits
 
 Made with 💙 by Joost
 Special thanks to the Python community and the creators of pycaw
 
+
 ---
+
 
 ## 📄 License
 
@@ -103,10 +147,4 @@ This project is licensed under custom terms by **JAC-Systems**.
 See [LICENSE.txt](./LICENSE.txt) for full terms.
 
 © 2025 [JAC-Systems](https://jac-sys.net)
-
----
-
-## ☕ Support
-
-If you like this tool and want to support its development, feel free to star the repo or share it with friends 😊
 
