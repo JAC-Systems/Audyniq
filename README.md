@@ -2,7 +2,7 @@
 
 Audyniq is a lightweight and modern system tray tool that lets you **instantly change your system volume and microphone levels** using custom hotkeys or a simple interface. Perfect for streamers, gamers, and multitaskers who need fast, silent control over audio.
 
-![audyniq-preview](./preview.png) <!-- optional screenshot or GIF -->
+![audyniq-preview](./Preview.png) <!-- optional screenshot or GIF -->
 
 ![Platform](https://img.shields.io/badge/platform-Windows-blue)
 ![License](https://img.shields.io/github/license/Joost-JAC-Systems/audyniq)
